@@ -1,0 +1,18 @@
+{
+    "_id": {
+        "$oid": "645dbaef802c023458e8bed7"
+    },
+    "bookId": "TECH202305050001",
+    "title": "MongoDB For Dummies",
+    "tags": [
+        "mongodb",
+        "database",
+        "NoSQL"
+    ],
+    "detail": {
+        "author": "Mr.Soso",
+        "description": "MongoDB is no sql database",
+        "url": "http://www.tutorialspoint.com/abc",
+        "releaseDate": "2016-05-18T16:00:00Z"
+    }
+}
